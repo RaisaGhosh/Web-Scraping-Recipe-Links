@@ -1,0 +1,333 @@
+https://www.bbcgoodfoodme.com/recipes/steamed-fish-and-pak-choi-parcels/
+
+
+Menu
+
+Cancel
+
+Skip to content
+
+Visit Homepage > Select Region Middle East United Kingdom
+
+Search
+
+Create an account Sign in
+
+Subscribe
+
+    
+    
+    Array
+    (
+        [90] => BiscuitBreadCake saleCaramel
+        [88] => JubileeMother's DayFather's DayValentine's Day
+        [85] => Comfort foodCheap eatFive ingredients or lessBatch cooking
+        [84] => BritishAmericanCaribbeanChinese
+        [77] => Christmas dinnerChristmas cheeseboardChristmas puddingChristmas trimmings
+        [61] => CoursesBuffetAll-time top 20 recipesFood to get you in the mood
+        [56] => Seasonal SeptemberSummer drinkSummer dessertEasy summer
+        [53] => FruitVegetablesMeatDairy
+        [52] => IftarRamadan with childrenSuhoorRamadan desserts
+        [48] => Low-fatEgg-freeLow GI
+        [47] => Easy entertainingFriday lunchBig matchFabulous fish
+        [46] => Quick and healthyEaster bakingEasyEasy pudding
+        [39] => Roast turkeyFreezable ChristmasSmoked dishesPastry
+        [38] => StudentHealthy kidsKids bakingSpeedy suppers
+        [30] => Cheap and healthyClean eatingHealthy lunch200-400 calories
+    )
+    
+
+  * Home
+  * Recipes
+    * All Recipes
+    * ### Not sure what to cook?
+
+We've pulled together our most popular recipes additions and our editor's
+picks, so there's sure to be something tempting for you to try
+
+Inspire me
+
+####  Ramadan
+
+Eid Feast Iftar Suhoor Ramadan Desserts Ramadan with Children see more...
+
+#### Dishes
+
+Roast turkeyFreezable ChristmasSmoked dishesPastry see more...
+
+####  Cuisines
+
+BritishAmericanCaribbeanChinese see more...
+
+####  Healthy
+
+Cheap and healthyClean eatingHealthy lunch200-400 calories see more...
+
+####  Family & Kids
+
+StudentHealthy kidsKids bakingSpeedy suppers Afternoon Tea Recipes see more...
+
+####  Quick And Easy
+
+Quick and healthyEaster bakingEasyEasy pudding see more...
+
+####  Occasions
+
+Easy entertainingFriday lunchBig matchFabulous fish see more...
+
+####  Special Diets
+
+Low-fatEgg-freeLow GI see more...
+
+####  Ingredients
+
+FruitVegetablesMeatDairy see more...
+
+####  Seasonal
+
+Seasonal SeptemberSummer drinkSummer dessertEasy summer see more...
+
+####  More Recipe Ideas
+
+CoursesBuffetAll-time top 20 recipesFood to get you in the mood see more...
+
+####  Everyday
+
+Comfort foodCheap eatFive ingredients or lessBatch cooking see more...
+
+####  Events
+
+JubileeMother's DayFather's DayValentine's Day see more...
+
+####  Cakes & Baking
+
+BiscuitBreadCake saleCaramel see more...
+
+#### Christmas
+
+Christmas dinnerChristmas cheeseboardChristmas puddingChristmas trimmings see
+more...
+
+  * Restaurants
+    * Reviews
+    * Listings
+  * Lifestyle
+    * Staycations
+    * International Travel
+  * Food news
+    * News
+    * Health
+    * Interviews
+    * How To
+    * Videos
+  * Expo 2020 News
+  * Competitions
+  * Magazines
+  * Events
+    * BBC Good Food ME Awards
+      * 2022 Awards
+      * 2021 Awards
+      * 2020 Awards
+      * 2019 Awards
+      * 2018 Awards
+      * 2017 Awards
+      * 2016 Awards
+      * 2015 Awards
+    * The Great Flavour Awards
+    * Food Club Events
+  * My Account
+    * Sign Up
+    * Login
+  * Select Region
+    * Middle East
+    * United Kingdom
+  * Search
+
+Add to favourite + Print
+
+# Steamed fish & pak choi parcels
+
+By Silvana Franco
+
+Just add steamed rice for a flavour-packed, low-calorie meal
+
+  * __ **Prep:** 10 mins   
+**Cook:** 15 mins  
+
+  * __ Serves 4 
+  * __ Easy
+
+#### Nutrition per serving
+
+  * kcal 124
+
+  * fat 3g
+
+  * saturates 0g
+
+  * carbs 2g
+
+  * sugars 2g
+
+  * fibre 1g
+
+  * protein 22g
+
+  * salt 1.31g
+
+### Ingredients
+
+  * 4 plaice, haddock or other MSC-certified white fish fillets
+  * 2 pak choi, thickly sliced
+  * 4 spring onions, shredded
+  * 1 red chilli, thinly sliced
+  * 3cm ginger, cut into matchsticks
+  * 2 tbsp reduced-salt soy sauce
+  * juice 1 lime
+  * 1 tsp sesame oil
+
+MPU 2
+
+### Method
+
+  1. Heat oven to 200C/180C fan/gas 6. Place each fillet in the centre of a large square of foil. Top with the pak choi, spring onions, chilli and ginger, then pull up the edges of the foil. 
+
+  2. Mix together the soy sauce, lime juice and 1 tbsp of water then spoon a little over each fillet. Crimp the top of the foil to enclose the fish and make sure there are no gaps for the steam to escape. 
+
+  3. Place the parcels on a baking sheet and bake for 10-15 mins until the fish is cooked through (this will depend on the thickness of your fish). Open up the parcels and drizzle over a few drops of sesame oil. Serve with rice.
+
+###
+
+Trending this week on GF
+
+* * *
+
+### Popular recipes:
+
+  1. Cooking with kids: Chocolate cornflake cakes
+  2. Yummy scrummy carrot cake recipe
+  3. Soup maker vegetable soup
+  4. Moroccan chicken one-pot
+  5. Baby Corn Bhutta
+
+### Most discussed:
+
+  1. Why Pavilion at The Beach is the place to be this summer
+  2. What’s happening this weekend?
+  3. Iconic Plate: Gnocchi
+  4. An authentic Thai dining experience awaits at Benjarong’s brunch
+  5. What’s happening this weekend?
+
+## Suggested recipes from this collection...
+
+POST-ID:739 array(3) { [0]=> object(WP_Term)#11427 (11) { ["term_id"]=>
+int(383) ["name"]=> string(22) "Healthy steamed dishes" ["slug"]=> string(22)
+"healthy-steamed-dishes" ["term_group"]=> int(0) ["term_taxonomy_id"]=>
+int(383) ["taxonomy"]=> string(15) "bbc_collections" ["description"]=>
+string(0) "" ["parent"]=> int(0) ["count"]=> int(16) ["filter"]=> string(3)
+"raw" ["term_order"]=> string(1) "0" } [1]=> object(WP_Term)#11369 (11) {
+["term_id"]=> int(216) ["name"]=> string(18) "Low-calorie dinner" ["slug"]=>
+string(18) "low-calorie-dinner" ["term_group"]=> int(0) ["term_taxonomy_id"]=>
+int(216) ["taxonomy"]=> string(15) "bbc_collections" ["description"]=>
+string(41) "Delicious dinners all under 400 calories." ["parent"]=> int(0)
+["count"]=> int(73) ["filter"]=> string(3) "raw" ["term_order"]=> string(1)
+"0" } [2]=> object(WP_Term)#11423 (11) { ["term_id"]=> int(217) ["name"]=>
+string(16) "Low-carb recipes" ["slug"]=> string(16) "low-carbohydrate"
+["term_group"]=> int(0) ["term_taxonomy_id"]=> int(217) ["taxonomy"]=>
+string(15) "bbc_collections" ["description"]=> string(76) "Delicious low-carb
+recipes, with less than 10g of carbohydrates per serving." ["parent"]=> int(0)
+["count"]=> int(39) ["filter"]=> string(3) "raw" ["term_order"]=> string(1)
+"0" } }
+
+SELECT p.ID, p.post_title, rd.recipe_data_ref_id, rd.photo_file_name,
+rd.photo_src, rd.skill_level FROM bbc20may18_posts p LEFT JOIN
+bbc20may18_term_relationships tr ON (p.ID = tr.object_id) LEFT JOIN
+bbc20may18_recipes_data rd ON (p.ID = rd.recipe_post_id) WHERE
+(tr.term_taxonomy_id IN ( 383, 216217 )) AND p.post_type = 'bbc_recipes' AND
+(p.post_status = 'publish' OR p.post_status = 'private') AND p.ID <> 739 GROUP
+BY p.ID ORDER BY p.post_date DESC LIMIT 0, 16
+
+Chocolate-orange steamed pudding with chocolate sauce
+
+Steamed pak choi
+
+Steamed salmon & veg rice bowl
+
+Steamed leeks & peas with herby vinaigrette
+
+Citrus & ginger steamed fish with stir-fry veg
+
+Steamed tilapia with green chilli & coconut chutney
+
+Honey-mustard steamed green medley
+
+Steamed lemon tilapia with teriyaki sauce
+
+Soy steamed chicken with oriental rice
+
+Chinese steamed bass with cabbage
+
+Thai-style steamed fish
+
+Steamed clams in saffron & spring green broth
+
+Steamed bass with pak choi
+
+Perfect steamed broccoli
+
+Steamed salmon in the microwave
+
+MPU 1
+
+###
+
+Dish of The Month
+
+* * *
+
+### Iconic Plate: Gnocchi
+
+###
+
+Trending this week on GF
+
+* * *
+
+### Popular recipes:
+
+  1. Cooking with kids: Chocolate cornflake cakes
+  2. Yummy scrummy carrot cake recipe
+  3. Soup maker vegetable soup
+  4. Moroccan chicken one-pot
+  5. Baby Corn Bhutta
+
+### Most discussed:
+
+  1. Why Pavilion at The Beach is the place to be this summer
+  2. What’s happening this weekend?
+  3. Iconic Plate: Gnocchi
+  4. An authentic Thai dining experience awaits at Benjarong’s brunch
+  5. What’s happening this weekend?
+
+MPU 3
+
+# Join the community
+
+Subscribe to our newsletter for recipes, competitions, magazines and videos.
+
+Subscribe Now
+
+Copyright 2022 BBC Good Food Middle East. All rights reserved. Product of CPI
+Media Group.
+
+For more information e-mail us at webmaster@cpimediagroup.com
+
+Privacy Policy | More from CPI Websites
+
+  * Home
+  * Recipes
+
+  * Competitions
+  * Magazine
+  * Contact BBC Good Food Middle East
+

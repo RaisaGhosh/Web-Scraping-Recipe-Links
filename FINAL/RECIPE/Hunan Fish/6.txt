@@ -1,0 +1,643 @@
+https://www.dummies.com/food-drink/recipes/seafood/hunan-style-braised-fish/
+
+
+{"appState":{"pageLoadApiCallsStatus":true},"articleState":{"article":{"headers":{"creationTime":"2016-03-26T22:48:52+00:00","modifiedTime":"2016-03-26T22:48:52+00:00","timestamp":"2022-06-22T19:30:11+00:00"},"data":{"breadcrumbs":[{"name":"Home,
+Auto, & Hobbies","_links":{"self":"https://dummies-
+api.dummies.com/v2/categories/33809"},"slug":"home-auto-
+hobbies","categoryId":33809},{"name":"Food &
+Drink","_links":{"self":"https://dummies-
+api.dummies.com/v2/categories/33839"},"slug":"food-
+drink","categoryId":33839},{"name":"Recipes","_links":{"self":"https://dummies-
+api.dummies.com/v2/categories/33859"},"slug":"recipes","categoryId":33859},{"name":"Chinese
+Recipes","_links":{"self":"https://dummies-
+api.dummies.com/v2/categories/33866"},"slug":"chinese","categoryId":33866}],"title":"Hunan-
+Style Braised Fish","strippedTitle":"hunan-style braised fish","slug":"hunan-
+style-braised-fish","canonicalUrl":"","seo":{"metaDescription":"Hunan-Style
+Braised Fish is cooked with a spicy sauce that goes well with rice or noodles.
+You can make your own spicy, braised fish in the Hunan style with
+thi","noIndex":0,"noFollow":0},"content":"<p>Hunan-Style Braised Fish is
+cooked with a spicy sauce that goes well with rice or noodles. You can make
+your own spicy, braised fish in the Hunan style with this recipe. Freshwater
+fish are perfect for pairing with zesty sauce. Any type of firm, moist white
+fish works in this dish. Choose one with a slightly fatty texture to provide a
+counterpoint to the sauceâs piquancy, such as sea bass, cod, or
+halibut.</p>\n<p><b><i>Preparation time: </i></b><i>15
+minutes</i></p>\n<p><b><i>Cooking time: </i></b><i>10
+minutes</i></p>\n<p><b><i>Yield: </i></b><i>4 servings</i></p>\n<p
+class=\"recipe_ingredient\">1 pound fish steaks or fillets, about 1-inch
+thick</p>\n<p class=\"recipe_ingredient\">1/4 teaspoon salt</p>\n<p
+class=\"recipe_ingredient\">1/4 cup chicken broth</p>\n<p
+class=\"recipe_ingredient\">2 tablespoons Chinese rice wine</p>\n<p
+class=\"recipe_ingredient\">2 teaspoons black bean garlic sauce</p>\n<p
+class=\"recipe_ingredient\">1 1/2 teaspoons sugar</p>\n<p
+class=\"recipe_ingredient\">1 teaspoon chile garlic sauce</p>\n<p
+class=\"recipe_ingredient\">1 teaspoon sesame oil</p>\n<p
+class=\"recipe_ingredient\">1/2 teaspoon soy sauce</p>\n<p
+class=\"recipe_ingredient\">2 tablespoons cooking oil</p>\n<p
+class=\"recipe_ingredient\">1 green onion</p>\n<p
+class=\"recipe_ingredient_last\">1 teaspoon cornstarch</p>\n<ol class=\"level-
+one\">\n <li><p class=\"first-para\">Cut the fish into four pieces.</p>\n
+</li>\n <li><p class=\"first-para\">Pat the fish dry with a paper towel.</p>\n
+</li>\n <li><p class=\"first-para\">Rub the salt all over the fish
+pieces.</p>\n </li>\n <li><p class=\"first-para\">Let stand for 10
+minutes.</p>\n </li>\n <li><p class=\"first-para\">Combine the chicken broth,
+rice wine, black bean garlic sauce, sugar, chile garlic sauce, sesame oil, and
+soy sauce in a bowl.</p>\n </li>\n <li><p class=\"first-para\">Place a wok
+over high heat until hot.</p>\n </li>\n <li><p class=\"first-para\">Add the
+cooking oil, swirling to coat the sides.</p>\n </li>\n <li><p class=\"first-
+para\">Reduce the heat to medium and add the fish; pan-fry until golden brown,
+about 2 minutes on each side.</p>\n </li>\n <li><p class=\"first-para\">Add
+the sauce and bring to a boil.</p>\n </li>\n <li><p class=\"first-
+para\">Thinly slice the green onion.</p>\n </li>\n <li><p class=\"first-
+para\">Add the green onion to the wok, cover, and braise over low heat for 3
+to 5 minutes.</p>\n </li>\n <li><p class=\"first-para\">Dissolve the
+cornstarch in 2 teaspoons water.</p>\n </li>\n <li><p class=\"first-para\">Add
+the cornstarch solution to the wok and cook, stirring, until the sauce boils
+and thickens.</p>\n </li>\n</ol>","description":"<p>Hunan-Style Braised Fish
+is cooked with a spicy sauce that goes well with rice or noodles. You can make
+your own spicy, braised fish in the Hunan style with this recipe. Freshwater
+fish are perfect for pairing with zesty sauce. Any type of firm, moist white
+fish works in this dish. Choose one with a slightly fatty texture to provide a
+counterpoint to the sauceâs piquancy, such as sea bass, cod, or
+halibut.</p>\n<p><b><i>Preparation time: </i></b><i>15
+minutes</i></p>\n<p><b><i>Cooking time: </i></b><i>10
+minutes</i></p>\n<p><b><i>Yield: </i></b><i>4 servings</i></p>\n<p
+class=\"recipe_ingredient\">1 pound fish steaks or fillets, about 1-inch
+thick</p>\n<p class=\"recipe_ingredient\">1/4 teaspoon salt</p>\n<p
+class=\"recipe_ingredient\">1/4 cup chicken broth</p>\n<p
+class=\"recipe_ingredient\">2 tablespoons Chinese rice wine</p>\n<p
+class=\"recipe_ingredient\">2 teaspoons black bean garlic sauce</p>\n<p
+class=\"recipe_ingredient\">1 1/2 teaspoons sugar</p>\n<p
+class=\"recipe_ingredient\">1 teaspoon chile garlic sauce</p>\n<p
+class=\"recipe_ingredient\">1 teaspoon sesame oil</p>\n<p
+class=\"recipe_ingredient\">1/2 teaspoon soy sauce</p>\n<p
+class=\"recipe_ingredient\">2 tablespoons cooking oil</p>\n<p
+class=\"recipe_ingredient\">1 green onion</p>\n<p
+class=\"recipe_ingredient_last\">1 teaspoon cornstarch</p>\n<ol class=\"level-
+one\">\n <li><p class=\"first-para\">Cut the fish into four pieces.</p>\n
+</li>\n <li><p class=\"first-para\">Pat the fish dry with a paper towel.</p>\n
+</li>\n <li><p class=\"first-para\">Rub the salt all over the fish
+pieces.</p>\n </li>\n <li><p class=\"first-para\">Let stand for 10
+minutes.</p>\n </li>\n <li><p class=\"first-para\">Combine the chicken broth,
+rice wine, black bean garlic sauce, sugar, chile garlic sauce, sesame oil, and
+soy sauce in a bowl.</p>\n </li>\n <li><p class=\"first-para\">Place a wok
+over high heat until hot.</p>\n </li>\n <li><p class=\"first-para\">Add the
+cooking oil, swirling to coat the sides.</p>\n </li>\n <li><p class=\"first-
+para\">Reduce the heat to medium and add the fish; pan-fry until golden brown,
+about 2 minutes on each side.</p>\n </li>\n <li><p class=\"first-para\">Add
+the sauce and bring to a boil.</p>\n </li>\n <li><p class=\"first-
+para\">Thinly slice the green onion.</p>\n </li>\n <li><p class=\"first-
+para\">Add the green onion to the wok, cover, and braise over low heat for 3
+to 5 minutes.</p>\n </li>\n <li><p class=\"first-para\">Dissolve the
+cornstarch in 2 teaspoons water.</p>\n </li>\n <li><p class=\"first-para\">Add
+the cornstarch solution to the wok and cook, stirring, until the sauce boils
+and thickens.</p>\n
+</li>\n</ol>","blurb":"","authors":[{"authorId":9368,"name":"Martin
+Yan","slug":"martin-yan","description":" <b><i>Mexican Cooking</i></b><br />
+<b>Mary Sue Milliken</b> and <b>Susan Feniger</b> may be &#8220;two gringas
+from the Midwest,&#8221; but they fell deeply in love with Mexican food when
+first introduced to it more than 20 years ago. The two chefs became friends in
+the late &#8217;70s while working in the otherwise all-male kitchen of a
+prestigious French restaurant in Chicago called Le Perroquet. After honing
+their skills in fine restaurants in France and America, they opened their
+first restaurant, the highly celebrated City Caf&#233;, in Los Angeles in
+1981. These days, they divide their time between their three restaurants,
+Border Grills in Santa Monica and Las Vegas, and the upscale Ciudad in
+downtown Los Angeles. They also have authored five previous cookbooks,
+including <i>Mexican Cooking For Dummies,</i> host the popular Television Food
+Network series, <i>Too Hot Tamales,</i> and are heard regularly on Southern
+California radio. <p><b>Helene Siegel</b> is the co-author with Mary Sue and
+Susan of <i>City Cuisine, Mesa Mexicana, Cooking with the Too Hot Tamales,</i>
+and <i>Mexican Cooking For Dummies.</i> She also is the author of <i>The
+Ethnic Kitchen</i> series and 32 single subject cookbooks in the best-selling
+<i>Totally Cookbook</i> series. Her articles have appeared in the <i>Los
+Angeles Times,</i> the <i>Times Syndicate, Fine Cooking,</i> and on the Web at
+cuisinenet.com.</p> <p><b><i>Italian Cooking<br /> </i></b><b>Cesare
+Casella</b> was born in a small town outside Lucca, Italy. He grew up in and
+around his family&#8217;s restaurant, called Il Vipore. As a young chef, he
+transformed Il Vipore into a world-class establishment, earning a well-
+deserved Michelin star. Since 1993, Casella has been working as a chef at
+several leading Italian restaurants in New York. He is the coauthor of
+<i>Diary of a Tuscan Chef</i> and <i>Italian Cooking For Dummies.</i></p>
+<p><b>Jack Bishop</b> is the author or coauthor of several books on Italian
+food, including <i>The Complete Italian Vegetarian Cookbook, Pasta e Verdura,
+Lasagna,</i> and <i>Italian Cooking For Dummies.</i> He is the senior writer
+for <i>Cook&#8217;s Illustrated</i> and writes for various national magazines
+and newspapers. He has studied cooking in Italy.</p> <p><b><i>French Cooking
+and Greek and Middle Eastern Cooking</i></b><br /> <b>Tom Lacalamita</b> (Long
+Island, New York) is a best-selling author of five appliance-related
+cookbooks. Nominated for a James Beard cookbook award, Tom is considered a
+national authority on housewares and has appeared on hundreds of television
+and radio shows across the country. With a passion for food, cooking, and all
+sorts of kitchen gadgets, Tom is a spokesperson for various food and
+housewares manufacturers. He is the author of <i>Slow Cookers For Dummies</i>
+and <i>Pressure Cookers For Dummies.</i></p> <p><b><i>Indian
+Cooking</i></b><br /> <b>Heather Dismore</b> began her career as a well-
+traveled, highly productive restaurant manager. She left the industry to
+devote time to her family and her love of writing. In a publishing career
+spanning over a decade, her work has impacted some 400 titles. Dismore resides
+in Naperville, Illinois, with her husband, who is a professional chef, and
+their two daughters. She is the owner of PageOne Publishing, a freelance Web
+content development company with a focus on the hospitality industry.</p>
+<p><b><i>Chinese Cooking</i></b><br /> <b>Martin Yan,</b> celebrated host of
+more than 1,500 cooking shows, highly respected food and restaurant
+consultant, and certified master chef, enjoys distinction as both teacher and
+author. His many talents are showcased in over two dozen best-selling
+cookbooks, including <i>Martin Yan&#8217;s Feast: The Best of Yan Can Cook,
+Martin Yan&#8217;s Invitation to Chinese Cooking,</i> and <i>Chinese Cooking
+For Dummies.</i> Yan is the founder of the Yan Can International Cooking
+School in the San Francisco Bay Area. <i>Yan Can Cook</i> has received
+national and international recognition, including a 1998 Daytime Emmy Award, a
+1996 James Beard Award for Best TV Food Journalism, and a 1994 James Beard
+Award for Best TV Cooking Show.</p> <p><b><i>Japanese Cooking</i></b><br />
+<b>Dede Wilson, CCP</b> (Certified Culinary Professional), is a self-taught
+chef who loves making appetizers and organizing parties. She has worked
+professionally for more than 17 years as a restaurant chef, bakery owner,
+caterer, recipe developer, radio talk-show host, and frequent television
+guest. Dede is also a frequent contributor to <i>Bon App&#233;tit</i> magazine
+and a contributing editor to <i>Pastry Art and Design</i> magazine and is the
+food and entertainment expert for CanDoWoman.com. Dede has written three other
+cookbooks, including <i>The Wedding Cake Book</i> (Wiley, 1997), which was
+nominated for an IACP Julia Child Cookbook Award. She also authored
+<i>Christmas Cooking For Dummies</i> and <i>Appetizers For Dummies.</i></p>
+<p><b><i>Thai Cooking</i></b><br /> <b>Joan H. Moravek</b> left the Securities
+Industry in 1990 and decided to pursue a career in the food service industry.
+The last 12 years have led her to explore some of the many facets of the
+culinary profession. A lifelong resident of Chicago, Joan has traveled
+extensively and continues to educate herself by researching, cooking, and
+&#8220;eating her way&#8221; through the cuisines of many countries.</p>
+<p><b>Kristin Eddy</b> is the Food Writer for the <i>Chicago Tribune</i> and
+also covers Travel and Health stories for the paper. During 17 years as an
+award-winning writer, Eddy has worked for the <i>Washington Post, Atlanta
+Journal-Constitution</i> and the <i>Cleveland Plain Dealer,</i> covering
+everything from news and health stories to restaurant reviews and the 1996
+Olympic Games. As the daughter of a diplomat, Eddy was born in Beirut,
+Lebanon, and lived in Aleppo and Damascus, Syria; Istanbul, London, and Paris.
+She has traveled widely on assignment for the <i>Tribune,</i> reporting food
+stories from around the U.S. as well as Istanbul, Thailand, Vietnam,
+Indonesia, India, and Jamaica. Eddy has had 14 years of experience in writing
+about food, developing, testing, and editing recipes for various
+newspapers.</p>","_links":{"self":"https://dummies-
+api.dummies.com/v2/authors/9368"}}],"primaryCategoryTaxonomy":{"categoryId":33866,"title":"Chinese
+Recipes","slug":"chinese","_links":{"self":"https://dummies-
+api.dummies.com/v2/categories/33866"}},"secondaryCategoryTaxonomy":{"categoryId":0,"title":null,"slug":null,"_links":null},"tertiaryCategoryTaxonomy":{"categoryId":0,"title":null,"slug":null,"_links":null},"trendingArticles":null,"inThisArticle":[],"relatedArticles":{"fromBook":[{"articleId":209418,"title":"Chinese
+Cooking For Dummies Cheat Sheet","slug":"chinese-cooking-for-dummies-cheat-
+sheet","categoryList":["home-auto-hobbies","food-
+drink","recipes","chinese"],"_links":{"self":"https://dummies-
+api.dummies.com/v2/articles/209418"}},{"articleId":206752,"title":"How to
+Shell Shrimp","slug":"how-to-shell-shrimp","categoryList":["home-auto-
+hobbies","food-drink","recipes","chinese"],"_links":{"self":"https://dummies-
+api.dummies.com/v2/articles/206752"}},{"articleId":201608,"title":"Chinese
+Herbs and Spices","slug":"chinese-herbs-and-spices","categoryList":["home-
+auto-hobbies","food-
+drink","recipes","chinese"],"_links":{"self":"https://dummies-
+api.dummies.com/v2/articles/201608"}},{"articleId":201607,"title":"Chinese
+Potstickers","slug":"chinese-potstickers","categoryList":["home-auto-
+hobbies","food-drink","recipes","chinese"],"_links":{"self":"https://dummies-
+api.dummies.com/v2/articles/201607"}},{"articleId":201606,"title":"Classic
+Chinese Sauces and Condiments","slug":"classic-chinese-sauces-and-
+condiments","categoryList":["home-auto-hobbies","food-
+drink","recipes","chinese"],"_links":{"self":"https://dummies-
+api.dummies.com/v2/articles/201606"}}],"fromCategory":[{"articleId":209418,"title":"Chinese
+Cooking For Dummies Cheat Sheet","slug":"chinese-cooking-for-dummies-cheat-
+sheet","categoryList":["home-auto-hobbies","food-
+drink","recipes","chinese"],"_links":{"self":"https://dummies-
+api.dummies.com/v2/articles/209418"}},{"articleId":208046,"title":"Chinese For
+Dummies Cheat Sheet","slug":"chinese-for-dummies-cheat-
+sheet","categoryList":["home-auto-hobbies","food-
+drink","recipes","chinese"],"_links":{"self":"https://dummies-
+api.dummies.com/v2/articles/208046"}},{"articleId":206752,"title":"How to
+Shell Shrimp","slug":"how-to-shell-shrimp","categoryList":["home-auto-
+hobbies","food-drink","recipes","chinese"],"_links":{"self":"https://dummies-
+api.dummies.com/v2/articles/206752"}},{"articleId":201608,"title":"Chinese
+Herbs and Spices","slug":"chinese-herbs-and-spices","categoryList":["home-
+auto-hobbies","food-
+drink","recipes","chinese"],"_links":{"self":"https://dummies-
+api.dummies.com/v2/articles/201608"}},{"articleId":201607,"title":"Chinese
+Potstickers","slug":"chinese-potstickers","categoryList":["home-auto-
+hobbies","food-drink","recipes","chinese"],"_links":{"self":"https://dummies-
+api.dummies.com/v2/articles/201607"}}]},"hasRelatedBookFromSearch":false,"relatedBook":{"bookId":282078,"slug":"chinese-
+cooking-for-dummies","isbn":"9780764552472","categoryList":["home-auto-
+hobbies","food-
+drink","recipes","chinese"],"amazon":{"default":"https://www.amazon.com/gp/product/0764552473/ref=as_li_tl?ie=UTF8&tag=wiley01-20","ca":"https://www.amazon.ca/gp/product/0764552473/ref=as_li_tl?ie=UTF8&tag=wiley01-20","indigo_ca":"http://www.tkqlhce.com/click-9208661-13710633?url=https://www.chapters.indigo.ca/en-
+ca/books/product/0764552473-item.html&cjsku=978111945484","gb":"https://www.amazon.co.uk/gp/product/0764552473/ref=as_li_tl?ie=UTF8&tag=wiley01-20","de":"https://www.amazon.de/gp/product/0764552473/ref=as_li_tl?ie=UTF8&tag=wiley01-20"},"image":{"src":"https://www.dummies.com/wp-
+content/uploads/chinese-cooking-for-dummies-
+cover-9780764552472-201x255.jpg","width":201,"height":255},"title":"Chinese
+Cooking For
+Dummies","testBankPinActivationLink":"","bookOutOfPrint":false,"authorsInfo":"Martin
+Yan hosts the award-winning TV show Yan Can Cook, broadcast on 240 U.S.
+stations and in 70 countries internationally. His bestselling cookbooks
+include Martin Yan's Feast and Martin Yan's Invitation to Chinese
+Cooking.","authors":[{"authorId":9368,"name":"Martin Yan","slug":"martin-
+yan","description":" <b><i>Mexican Cooking</i></b><br /> <b>Mary Sue
+Milliken</b> and <b>Susan Feniger</b> may be &#8220;two gringas from the
+Midwest,&#8221; but they fell deeply in love with Mexican food when first
+introduced to it more than 20 years ago. The two chefs became friends in the
+late &#8217;70s while working in the otherwise all-male kitchen of a
+prestigious French restaurant in Chicago called Le Perroquet. After honing
+their skills in fine restaurants in France and America, they opened their
+first restaurant, the highly celebrated City Caf&#233;, in Los Angeles in
+1981. These days, they divide their time between their three restaurants,
+Border Grills in Santa Monica and Las Vegas, and the upscale Ciudad in
+downtown Los Angeles. They also have authored five previous cookbooks,
+including <i>Mexican Cooking For Dummies,</i> host the popular Television Food
+Network series, <i>Too Hot Tamales,</i> and are heard regularly on Southern
+California radio. <p><b>Helene Siegel</b> is the co-author with Mary Sue and
+Susan of <i>City Cuisine, Mesa Mexicana, Cooking with the Too Hot Tamales,</i>
+and <i>Mexican Cooking For Dummies.</i> She also is the author of <i>The
+Ethnic Kitchen</i> series and 32 single subject cookbooks in the best-selling
+<i>Totally Cookbook</i> series. Her articles have appeared in the <i>Los
+Angeles Times,</i> the <i>Times Syndicate, Fine Cooking,</i> and on the Web at
+cuisinenet.com.</p> <p><b><i>Italian Cooking<br /> </i></b><b>Cesare
+Casella</b> was born in a small town outside Lucca, Italy. He grew up in and
+around his family&#8217;s restaurant, called Il Vipore. As a young chef, he
+transformed Il Vipore into a world-class establishment, earning a well-
+deserved Michelin star. Since 1993, Casella has been working as a chef at
+several leading Italian restaurants in New York. He is the coauthor of
+<i>Diary of a Tuscan Chef</i> and <i>Italian Cooking For Dummies.</i></p>
+<p><b>Jack Bishop</b> is the author or coauthor of several books on Italian
+food, including <i>The Complete Italian Vegetarian Cookbook, Pasta e Verdura,
+Lasagna,</i> and <i>Italian Cooking For Dummies.</i> He is the senior writer
+for <i>Cook&#8217;s Illustrated</i> and writes for various national magazines
+and newspapers. He has studied cooking in Italy.</p> <p><b><i>French Cooking
+and Greek and Middle Eastern Cooking</i></b><br /> <b>Tom Lacalamita</b> (Long
+Island, New York) is a best-selling author of five appliance-related
+cookbooks. Nominated for a James Beard cookbook award, Tom is considered a
+national authority on housewares and has appeared on hundreds of television
+and radio shows across the country. With a passion for food, cooking, and all
+sorts of kitchen gadgets, Tom is a spokesperson for various food and
+housewares manufacturers. He is the author of <i>Slow Cookers For Dummies</i>
+and <i>Pressure Cookers For Dummies.</i></p> <p><b><i>Indian
+Cooking</i></b><br /> <b>Heather Dismore</b> began her career as a well-
+traveled, highly productive restaurant manager. She left the industry to
+devote time to her family and her love of writing. In a publishing career
+spanning over a decade, her work has impacted some 400 titles. Dismore resides
+in Naperville, Illinois, with her husband, who is a professional chef, and
+their two daughters. She is the owner of PageOne Publishing, a freelance Web
+content development company with a focus on the hospitality industry.</p>
+<p><b><i>Chinese Cooking</i></b><br /> <b>Martin Yan,</b> celebrated host of
+more than 1,500 cooking shows, highly respected food and restaurant
+consultant, and certified master chef, enjoys distinction as both teacher and
+author. His many talents are showcased in over two dozen best-selling
+cookbooks, including <i>Martin Yan&#8217;s Feast: The Best of Yan Can Cook,
+Martin Yan&#8217;s Invitation to Chinese Cooking,</i> and <i>Chinese Cooking
+For Dummies.</i> Yan is the founder of the Yan Can International Cooking
+School in the San Francisco Bay Area. <i>Yan Can Cook</i> has received
+national and international recognition, including a 1998 Daytime Emmy Award, a
+1996 James Beard Award for Best TV Food Journalism, and a 1994 James Beard
+Award for Best TV Cooking Show.</p> <p><b><i>Japanese Cooking</i></b><br />
+<b>Dede Wilson, CCP</b> (Certified Culinary Professional), is a self-taught
+chef who loves making appetizers and organizing parties. She has worked
+professionally for more than 17 years as a restaurant chef, bakery owner,
+caterer, recipe developer, radio talk-show host, and frequent television
+guest. Dede is also a frequent contributor to <i>Bon App&#233;tit</i> magazine
+and a contributing editor to <i>Pastry Art and Design</i> magazine and is the
+food and entertainment expert for CanDoWoman.com. Dede has written three other
+cookbooks, including <i>The Wedding Cake Book</i> (Wiley, 1997), which was
+nominated for an IACP Julia Child Cookbook Award. She also authored
+<i>Christmas Cooking For Dummies</i> and <i>Appetizers For Dummies.</i></p>
+<p><b><i>Thai Cooking</i></b><br /> <b>Joan H. Moravek</b> left the Securities
+Industry in 1990 and decided to pursue a career in the food service industry.
+The last 12 years have led her to explore some of the many facets of the
+culinary profession. A lifelong resident of Chicago, Joan has traveled
+extensively and continues to educate herself by researching, cooking, and
+&#8220;eating her way&#8221; through the cuisines of many countries.</p>
+<p><b>Kristin Eddy</b> is the Food Writer for the <i>Chicago Tribune</i> and
+also covers Travel and Health stories for the paper. During 17 years as an
+award-winning writer, Eddy has worked for the <i>Washington Post, Atlanta
+Journal-Constitution</i> and the <i>Cleveland Plain Dealer,</i> covering
+everything from news and health stories to restaurant reviews and the 1996
+Olympic Games. As the daughter of a diplomat, Eddy was born in Beirut,
+Lebanon, and lived in Aleppo and Damascus, Syria; Istanbul, London, and Paris.
+She has traveled widely on assignment for the <i>Tribune,</i> reporting food
+stories from around the U.S. as well as Istanbul, Thailand, Vietnam,
+Indonesia, India, and Jamaica. Eddy has had 14 years of experience in writing
+about food, developing, testing, and editing recipes for various
+newspapers.</p>","_links":{"self":"https://dummies-
+api.dummies.com/v2/authors/9368"}}],"_links":{"self":"https://dummies-
+api.dummies.com/v2/books/"}},"collections":[],"articleAds":{"footerAd":"<div
+class=\"du-ad-region row\" id=\"article_page_adhesion_ad\"><div class=\"du-ad-
+unit col-md-12\" data-slot-id=\"article_page_adhesion_ad\" data-
+refreshed=\"false\" \r\n data-target =
+\"[{&quot;key&quot;:&quot;cat&quot;,&quot;values&quot;:[&quot;home-auto-
+hobbies&quot;,&quot;food-
+drink&quot;,&quot;recipes&quot;,&quot;chinese&quot;]},{&quot;key&quot;:&quot;isbn&quot;,&quot;values&quot;:[&quot;9780764552472&quot;]}]\"
+id=\"du-slot-62b36dc3e2710\"></div></div>","rightAd":"<div class=\"du-ad-
+region row\" id=\"article_page_right_ad\"><div class=\"du-ad-unit col-md-12\"
+data-slot-id=\"article_page_right_ad\" data-refreshed=\"false\" \r\n data-
+target = \"[{&quot;key&quot;:&quot;cat&quot;,&quot;values&quot;:[&quot;home-
+auto-hobbies&quot;,&quot;food-
+drink&quot;,&quot;recipes&quot;,&quot;chinese&quot;]},{&quot;key&quot;:&quot;isbn&quot;,&quot;values&quot;:[&quot;9780764552472&quot;]}]\"
+id=\"du-
+slot-62b36dc3e306e\"></div></div>"},"articleType":{"articleType":"Articles","articleList":null,"content":null,"videoInfo":{"videoId":null,"name":null,"accountId":null,"playerId":null,"thumbnailUrl":null,"description":null,"uploadDate":null}},"sponsorship":{"sponsorshipPage":false,"backgroundImage":{"src":null,"width":0,"height":0},"brandingLine":"","brandingLink":"","brandingLogo":{"src":null,"width":0,"height":0},"sponsorAd":null,"sponsorEbookTitle":null,"sponsorEbookLink":null,"sponsorEbookImage":null},"primaryLearningPath":"Explore","lifeExpectancy":null,"lifeExpectancySetFrom":null,"dummiesForKids":"no","sponsoredContent":"no","adInfo":"","adPairKey":[]},"status":"publish","visibility":"public","articleId":200306},"articleLoadedStatus":"success"},"listState":{"list":{},"objectTitle":"","status":"initial","pageType":null,"objectId":null,"page":1,"sortField":"time","sortOrder":1,"categoriesIds":[],"articleTypes":[],"filterData":{},"filterDataLoadedStatus":"initial","pageSize":10},"adsState":{"pageScripts":{"headers":{"timestamp":"2022-08-03T12:59:06+00:00"},"adsId":0,"data":{"scripts":[{"pages":["all"],"location":"header","script":"<!
+--Optimizely Script-->\r\n<script
+src=\"https://cdn.optimizely.com/js/10563184655.js\"></script>","enabled":false},{"pages":["all"],"location":"header","script":"<!--
+comScore Tag -->\r\n<script>var _comscore = _comscore || [];_comscore.push({
+c1: \"2\", c2: \"15097263\" });(function() {var s =
+document.createElement(\"script\"), el =
+document.getElementsByTagName(\"script\")[0]; s.async = true;s.src =
+(document.location.protocol == \"https:\" ? \"https://sb\" : \"http://b\") +
+\".scorecardresearch.com/beacon.js\";el.parentNode.insertBefore(s,
+el);})();</script><noscript><img
+src=\"https://sb.scorecardresearch.com/p?c1=2&c2=15097263&cv=2.0&cj=1\"
+/></noscript>\r\n<!-- / comScore Tag
+-->","enabled":true},{"pages":["all"],"location":"footer","script":"<!--BEGIN
+QUALTRICS WEBSITE FEEDBACK SNIPPET-->\r\n<script
+type='text/javascript'>\r\n(function(){var
+g=function(e,h,f,g){\r\nthis.get=function(a){for(var
+a=a+\"=\",c=document.cookie.split(\";\"),b=0,e=c.length;b<e;b++){for(var
+d=c[b];\" \"==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return
+d.substring(a.length,d.length)}return null};\r\nthis.set=function(a,c){var
+b=\"\",b=new Date;b.setTime(b.getTime()+6048E5);b=\";
+expires=\"+b.toGMTString();document.cookie=a+\"=\"+c+b+\"; path=/;
+\"};\r\nthis.check=function(){var a=this.get(f);if(a)a=a.split(\":\");else
+if(100!=e)\"v\"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(\":\"));else
+return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case \"v\":return!1;case
+\"r\":return
+c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(\":\")),!c}return!0};\r\nthis.go=function(){if(this.check()){var
+a=document.createElement(\"script\");a.type=\"text/javascript\";a.src=g;document.body&&document.body.appendChild(a)}};\r\nthis.start=function(){var
+t=this;\"complete\"!==document.readyState?window.addEventListener?window.addEventListener(\"load\",function(){t.go()},!1):window.attachEvent&&window.attachEvent(\"onload\",function(){t.go()}):t.go()};};\r\ntry{(new
+g(100,\"r\",\"QSI_S_ZN_5o5yqpvMVjgDOuN\",\"https://zn5o5yqpvmvjgdoun-
+wiley.siteintercept.qualtrics.com/SIE/?Q_ZID=ZN_5o5yqpvMVjgDOuN\")).start()}catch(i){}})();\r\n</script><div
+id='ZN_5o5yqpvMVjgDOuN'><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>\r\n<!
+--END WEBSITE FEEDBACK
+SNIPPET-->","enabled":false},{"pages":["all"],"location":"header","script":"<!--
+Hotjar Tracking Code for http://www.dummies.com -->\r\n<script>\r\n
+(function(h,o,t,j,a,r){\r\n
+h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};\r\n
+h._hjSettings={hjid:257151,hjsv:6};\r\n
+a=o.getElementsByTagName('head')[0];\r\n
+r=o.createElement('script');r.async=1;\r\n
+r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;\r\n a.appendChild(r);\r\n
+})(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');\r\n</script>","enabled":false},{"pages":["article"],"location":"header","script":"<!--
+//Connect Container: dummies --> <script
+src=\"//get.s-onetag.com/bffe21a1-6bb8-4928-9449-7beadb468dae/tag.min.js\"
+async
+defer></script>","enabled":true},{"pages":["homepage"],"location":"header","script":"<meta
+name=\"facebook-domain-verification\"
+content=\"irk8y0irxf718trg3uwwuexg6xpva0\"
+/>","enabled":true},{"pages":["homepage","article","category","search"],"location":"footer","script":"<!--
+Facebook Pixel Code -->\r\n<noscript>\r\n<img height=\"1\" width=\"1\"
+src=\"https://www.facebook.com/tr?id=256338321977984&ev=PageView&noscript=1\"/>\r\n</noscript>\r\n<!--
+End Facebook Pixel Code
+-->","enabled":true}]}},"pageScriptsLoadedStatus":"success"},"navigationState":{"navigationCollections":[{"collectionId":287568,"title":"BYOB
+(Be Your Own Boss)","hasSubCategories":false,"url":"/collection/for-the-entry-
+level-entrepreneur-287568"},{"collectionId":293237,"title":"Be a Rad
+Dad","hasSubCategories":false,"url":"/collection/be-the-best-
+dad-293237"},{"collectionId":294090,"title":"Contemplating the
+Cosmos","hasSubCategories":false,"url":"/collection/theres-something-about-
+space-294090"},{"collectionId":287563,"title":"For Those Seeking Peace of
+Mind","hasSubCategories":false,"url":"/collection/for-those-seeking-peace-of-
+mind-287563"},{"collectionId":287570,"title":"For the Aspiring
+Aficionado","hasSubCategories":false,"url":"/collection/for-the-
+bougielicious-287570"},{"collectionId":291903,"title":"For the Budding
+Cannabis Enthusiast","hasSubCategories":false,"url":"/collection/for-the-
+budding-cannabis-enthusiast-291903"},{"collectionId":291934,"title":"For the
+Exam-Season Crammer","hasSubCategories":false,"url":"/collection/for-the-exam-
+season-crammer-291934"},{"collectionId":287569,"title":"For the Hopeless
+Romantic","hasSubCategories":false,"url":"/collection/for-the-hopeless-
+romantic-287569"},{"collectionId":287567,"title":"For the Unabashed
+Hippie","hasSubCategories":false,"url":"/collection/for-the-unabashed-
+hippie-287567"},{"collectionId":292186,"title":"Just DIY
+It","hasSubCategories":false,"url":"/collection/just-diy-
+it-292186"}],"navigationCollectionsLoadedStatus":"success","navigationCategories":{"books":{"0":{"data":[{"categoryId":33512,"title":"Technology","hasSubCategories":true,"url":"/category/books/technology-33512"},{"categoryId":33662,"title":"Academics
+& The Arts","hasSubCategories":true,"url":"/category/books/academics-the-
+arts-33662"},{"categoryId":33809,"title":"Home, Auto, &
+Hobbies","hasSubCategories":true,"url":"/category/books/home-auto-
+hobbies-33809"},{"categoryId":34038,"title":"Body, Mind, &
+Spirit","hasSubCategories":true,"url":"/category/books/body-mind-
+spirit-34038"},{"categoryId":34224,"title":"Business, Careers, &
+Money","hasSubCategories":true,"url":"/category/books/business-careers-
+money-34224"}],"breadcrumbs":[],"categoryTitle":"Level 0
+Category","mainCategoryUrl":"/category/books/level-0-category-0"}},"articles":{"0":{"data":[{"categoryId":33512,"title":"Technology","hasSubCategories":true,"url":"/category/articles/technology-33512"},{"categoryId":33662,"title":"Academics
+& The Arts","hasSubCategories":true,"url":"/category/articles/academics-the-
+arts-33662"},{"categoryId":33809,"title":"Home, Auto, &
+Hobbies","hasSubCategories":true,"url":"/category/articles/home-auto-
+hobbies-33809"},{"categoryId":34038,"title":"Body, Mind, &
+Spirit","hasSubCategories":true,"url":"/category/articles/body-mind-
+spirit-34038"},{"categoryId":34224,"title":"Business, Careers, &
+Money","hasSubCategories":true,"url":"/category/articles/business-careers-
+money-34224"}],"breadcrumbs":[],"categoryTitle":"Level 0
+Category","mainCategoryUrl":"/category/articles/level-0-category-0"}}},"navigationCategoriesLoadedStatus":"success"},"searchState":{"searchList":[],"searchStatus":"initial","relatedArticlesList":[],"relatedArticlesStatus":"initial"},"routeState":{"name":"Article4","path":"/article/home-
+auto-hobbies/food-drink/recipes/chinese/hunan-style-braised-
+fish-200306/","hash":"","query":{},"params":{"category1":"home-auto-
+hobbies","category2":"food-
+drink","category3":"recipes","category4":"chinese","article":"hunan-style-
+braised-fish-200306"},"fullPath":"/article/home-auto-hobbies/food-
+drink/recipes/chinese/hunan-style-braised-
+fish-200306/","meta":{"routeType":"article","breadcrumbInfo":{"suffix":"Articles","baseRoute":"/category/articles"},"prerenderWithAsyncData":true},"from":{"name":null,"path":"/","hash":"","query":{},"params":{},"fullPath":"/","meta":{}}},"dropsState":{"submitEmailResponse":false,"status":"initial"},"sfmcState":{"status":"initial"},"profileState":{"auth":{},"userOptions":{},"status":"initial"}}
+
+  * Articles 
+  * Books 
+  * Collections 
+  * Custom Solutions 
+
+##  Article Categories
+
+Technology
+
+Academics & The Arts
+
+Home, Auto, & Hobbies
+
+Body, Mind, & Spirit
+
+Business, Careers, & Money
+
+##  Book Categories
+
+Technology
+
+Academics & The Arts
+
+Home, Auto, & Hobbies
+
+Body, Mind, & Spirit
+
+Business, Careers, & Money
+
+##  Collections
+
+Explore all collections
+
+BYOB (Be Your Own Boss)
+
+Be a Rad Dad
+
+Contemplating the Cosmos
+
+For Those Seeking Peace of Mind
+
+For the Aspiring Aficionado
+
+For the Budding Cannabis Enthusiast
+
+For the Exam-Season Crammer
+
+For the Hopeless Romantic
+
+For the Unabashed Hippie
+
+Just DIY It
+
+Log In
+
+  * Home 
+  * Home, Auto, & Hobbies Articles 
+  * Food & Drink Articles 
+  * Recipes Articles 
+  * Chinese Recipes Articles 
+
+# Hunan-Style Braised Fish
+
+ **By:** Martin Yan  and
+
+**Updated:** 03-26-2016
+
+**From The Book:** Chinese Cooking For Dummies
+
+  *   *   *   *   * 
+
+#####  Chinese Cooking For Dummies
+
+Explore Book Buy On Amazon
+
+#####
+
+##  Sign up for the **Dummies**
+
+ **Beta Program**  
+to try Dummies' newest way to learn.
+
+By checking this box, you agree to the Terms of Use and Privacy Policy & to
+receive electronic communications from Dummies.com, which may include
+marketing promotions, news and updates.
+
+Sign Up
+
+CancelOK
+
+Hunan-Style Braised Fish is cooked with a spicy sauce that goes well with rice
+or noodles. You can make your own spicy, braised fish in the Hunan style with
+this recipe. Freshwater fish are perfect for pairing with zesty sauce. Any
+type of firm, moist white fish works in this dish. Choose one with a slightly
+fatty texture to provide a counterpoint to the sauceâs piquancy, such as sea
+bass, cod, or halibut.
+
+**_Preparation time:_** _15 minutes_
+
+**_Cooking time:_** _10 minutes_
+
+**_Yield:_** _4 servings_
+
+1 pound fish steaks or fillets, about 1-inch thick
+
+1/4 teaspoon salt
+
+1/4 cup chicken broth
+
+2 tablespoons Chinese rice wine
+
+2 teaspoons black bean garlic sauce
+
+1 1/2 teaspoons sugar
+
+1 teaspoon chile garlic sauce
+
+1 teaspoon sesame oil
+
+1/2 teaspoon soy sauce
+
+2 tablespoons cooking oil
+
+1 green onion
+
+1 teaspoon cornstarch
+
+  1. Cut the fish into four pieces.
+
+  2. Pat the fish dry with a paper towel.
+
+  3. Rub the salt all over the fish pieces.
+
+  4. Let stand for 10 minutes.
+
+  5. Combine the chicken broth, rice wine, black bean garlic sauce, sugar, chile garlic sauce, sesame oil, and soy sauce in a bowl.
+
+  6. Place a wok over high heat until hot.
+
+  7. Add the cooking oil, swirling to coat the sides.
+
+  8. Reduce the heat to medium and add the fish; pan-fry until golden brown, about 2 minutes on each side.
+
+  9. Add the sauce and bring to a boil.
+
+  10. Thinly slice the green onion.
+
+  11. Add the green onion to the wok, cover, and braise over low heat for 3 to 5 minutes.
+
+  12. Dissolve the cornstarch in 2 teaspoons water.
+
+  13. Add the cornstarch solution to the wok and cook, stirring, until the sauce boils and thickens.
+
+##  About This Article
+
+###  This article is from the book:
+
+  * Chinese Cooking For Dummies ,
+
+###  About the book author:
+
+Martin Yan hosts the award-winning TV show Yan Can Cook, broadcast on 240 U.S.
+stations and in 70 countries internationally. His bestselling cookbooks
+include Martin Yan's Feast and Martin Yan's Invitation to Chinese Cooking.
+
+###  This article can be found in the category:
+
+  * Chinese Recipes ,
+
+From the Book  Chinese Cooking For Dummies
+
+  * Chinese Cooking For Dummies Cheat Sheet 
+  * How to Shell Shrimp 
+  * Chinese Herbs and Spices 
+  * Chinese Potstickers 
+  * Classic Chinese Sauces and Condiments 
+  * View All Articles From Book 
+
+### Quick Links
+
+  * About For Dummies 
+  * Contact Us 
+  * Activate A Book Pin 
+
+### Connect
+
+  *   *   * 
+
+Opt in to our newsletter!
+
+Submit
+
+By entering your email address and clicking the âSubmitâ button, you agree
+to the  Terms of Use  and  Privacy Policy  & to receive electronic
+communications from Dummies.com, which may include marketing promotions, news
+and updates.
+
+### About Dummies
+
+Dummies has always stood for taking on complex concepts and making them easy
+to understand. Dummies helps everyone be more knowledgeable and confident in
+applying what they know. Whether it's to pass that big test, qualify for that
+big promotion or even master that cooking technique; people who rely on
+dummies, rely on it to learn the critical skills and relevant information
+necessary for success.
+
+Terms of Use
+
+Privacy Policy
+
+Cookies Settings
+
+Do Not Sell My Personal Info - CA Only
+

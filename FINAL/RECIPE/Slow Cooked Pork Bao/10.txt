@@ -1,0 +1,298 @@
+https://bunch.woolworths.com.au/recipe/10121443/Slow-Cooker-Pulled-Pork-Bao-BunsSliders
+
+
+Home Products Recipes Articles FAQs How it works
+
+* * *
+
+Search
+
+Log in
+
+Loading...
+
+Back
+
+Back
+
+Back to my profile
+
+Back to my profile
+
+  * Previous recipe
+
+Prev
+
+  * Next recipe
+
+Next
+
+# {{getHTMLText(recipe.Blog_Title__c)}}
+
+{{author.CommunityNickname}} \- {{author.Contact.Prefix__c}},
+{{author.Contact.Community_Level__c}}
+{{author.Contact.Overall_Level_Number__c}}
+
+Bunch Team
+
+{{recipe.Published_Status__c}} {{recipe.Published_Date__c |
+date:'dd/MM/yyyy'}}
+
+{{recipe.Content_Stage__c}} {{recipe.Submitted_Date_Time__c |
+date:'dd/MM/yyyy'}}
+
+Unpublished
+
+{{likeCount}}
+
+{{recipe.Comment_Count__c}}
+
+Print
+
+This video will close in 3 seconds...
+
+Replay
+
+Close
+
+{{getText(recipe.Synopsis__c)}}
+
+#### Prep time
+
+**{{getHoursMinutes((recipe.Prep_Time_Hours__c*60)+recipe.Prep_Time_Minutes__c)}}**
+
+#### Cook time
+
+**{{getHoursMinutes((recipe.Cook_Time_In_Hours__c*60)+recipe.Cook_Time_In_Minutes__c)}}**
+
+#### Total time
+
+**{{getHoursMinutes((recipe.Prep_Time_Hours__c*60)+recipe.Prep_Time_Minutes__c+
+(recipe.Cook_Time_In_Hours__c*60)+recipe.Cook_Time_In_Minutes__c)}}**
+
+### Ingredients
+
+{{recipe.Recipe_Serve_Unit__c}}: {{recipe.Serves__c}}
+
+  * **{{ingredient.Quantity__c}}**
+
+### Method
+
+  1. {{getText(step.Method__c)}} 
+
+**Tip:**
+
+###  Tags
+
+{{topic.Name}}
+
+Share:
+
+Previous recipe
+
+Next recipe
+
+**This thread is closed for further discussions.**
+
+###  Reviews
+
+Filter  All bunchees  AU bunchees  NZ bunchees  All star ratings  1 star  2
+stars  3 stars  4 stars  5 stars
+
+Filter  All bunchees  AU bunchees  NZ bunchees  All star ratings  1 star  2
+stars  3 stars  4 stars  5 stars
+
+### Replies
+
+### Comments
+
+###
+
+Login and be the first to reply! Login and be the first to write a review!
+
+Oops, no reviews found.
+
+Try adjusting the filter options above.
+
+Login and be the first to comment!
+
+Bunch Team
+
+{{feedItem.actor.displayName}} \-
+{{bunchMembersInfo[feedItem.actor.id].Prefix__c}},
+{{bunchMembersInfo[feedItem.actor.id].Community_Level__c}}
+{{bunchMembersInfo[feedItem.actor.id].Overall_Level_Number__c}}
+
+####
+
+Posted {{getDateTime(feedItem.createdDate)}}
+
+Show {{feedItem.capabilities.comments.page.total}}
+
+Show previous replies comments
+
+Bunch Team
+
+  
+{{comment.user.displayName}} {{bunchMembersInfo[comment.user.id].Prefix__c}},
+{{bunchMembersInfo[comment.user.id].Community_Level__c}}
+{{bunchMembersInfo[comment.user.id].Overall_Level_Number__c}}
+
+Posted {{getDateTime(comment.createdDate)}}
+
+Posted {{getDateTime(comment.createdDate)}}
+
+**Edited**
+
+Page Go to page of {{productReviewsData.totalPages}} GO  GO
+
+Load more
+
+Load all reviews  Load all comments  Load all replies
+
+### Are you sure you want to report selected {{TBFSourceType | lowercase}}?
+
+What's your enquiry about? Code of Conduct breach Providing personal
+information Inappropriate content Copyright Infringement Concern for member
+wellbeing Other
+
+Please provide reason for flagging this content.
+
+Reporting content....
+
+Cancel Report
+
+###  Thanks for letting us know.
+
+If we find the content breaches our Code of Conduct, we'll remove it.
+
+Ok
+
+### Are you sure you want to remove the report on selected {{TBFSourceType |
+lowercase}}?
+
+Cancel Ok
+
+## More ideas and inspiration
+
+{{content.Author__r.Preferred_Name__c}}  {{content.Author__r.Prefix__c}},
+{{content.Author__r.Community_Level__c}}
+{{content.Author__r.Overall_Level_Number__c}}
+
+Bunch \- Team
+
+{{getHTMLText(content.Blog_Title__c)}}
+
+{{getHoursMinutes(content.Total_Time__c)}}
+
+{{content.Like_Count__c}}
+
+{{content.Comment_Count__c}}
+
+Back to top
+
+# Your recipe has been approved
+
+Your recipe is not yet live on bunch. but we'll let you know when it is
+published.  
+In the meantime, you can always check the status of your recipe on your
+profile.
+
+# A case was created for this recipe.
+
+A bunch moderator will be in contact with you via email soon.  
+In the meantime, you can always check the status of your recipe on your
+profile.
+
+## Discover more
+
+{{recipe.Author__r.Preferred_Name__c}}{{recipe.Author__r.Prefix__c}},
+{{recipe.Author__r.Community_Level__c}}
+{{recipe.Author__r.Overall_Level_Number__c}}
+
+{{recipe.Blog_Title__c}}
+
+{{getHoursMinutes((recipe.Prep_Time_Hours__c*60)+recipe.Prep_Time_Minutes__c+
+(recipe.Cook_Time_In_Hours__c*60)+recipe.Cook_Time_In_Minutes__c)}}
+
+{{recipe.Like_Count__c}}
+
+{{recipe.Comment_Count__c}}
+
+### Are you sure you want to delete '{{recipe.Blog_Title__c}}'?
+
+This action cannot be undone.
+
+Cancel Delete
+
+Deleting...
+
+### Please tell us why you want to reject the changes made.
+
+Your comments
+
+If you reject the changes, a case will be created and a bunch moderator will
+contact you directly via email.
+
+Cancel Reject changes
+
+Updating Status...
+
+### Are you sure you want to edit this recipe?
+
+Your recipe will be reverted back to a **draft**.
+
+Cancel  Edit  recipe
+
+### Are you sure you want to report this recipe?
+
+What's your enquiry about? Code of Conduct breach Providing personal
+information Inappropriate content Copyright Infringement Concern for member
+wellbeing Other
+
+Please provide reason for flagging this recipe
+
+Cancel Report
+
+###  Thanks for letting us know.
+
+If we find the content breaches our Code of Conduct, we'll remove it.
+
+Ok
+
+### Are you sure you want to remove the report on selected {{TBFSourceType |
+lowercase}}?
+
+Cancel Ok
+
+### People who liked this
+
+### {{item.CommunityNickname}}
+
+#### -
+
+#### {{bunchMembersInfo[item.Id].Prefix__c}},
+{{bunchMembersInfo[item.Id].Community_Level__c}}
+{{bunchMembersInfo[item.Id].Overall_Level_Number__c}}
+
+{{bunchMembersInfo[item.Id].About_Me__c}}
+
+{{loadingLikes?'Loading...':'Load more'}}
+
+Close
+
+Reviews, recipes, chats and articles published on bunch have been submitted by
+bunchees, and are not necessarily endorsed by Woolworths. Woolworths does not
+represent or warrant the accuracy of any statements, claims or opinions made
+in bunchee content.
+
+**Are you in New Zealand?** See content specific to your location. Go to Bunch
+NZ
+
+Contact us  Terms and conditions  Collection Notice  Privacy at Woolworths
+Group
+
+Grown by members, supported by
+
+Country: Australia New Zealand
+

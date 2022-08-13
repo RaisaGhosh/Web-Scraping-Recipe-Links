@@ -1,0 +1,12 @@
+https://www.tablespoon.com/recipes/garlic-chicken-spring-rolls/0789d86d-a074-41ec-a0b2-c9a0989a591e
+
+
+(function() { document.addEventListener('DOMContentLoaded', function() { var
+componentMetadata =
+JSON.parse('\x7b\x22componentName\x22\x3a\x22OneTrust_a2352866-1a21-4a5d-9dd4-1744f7700fb5\x22,\x22deferOptions\x22\x3a\x7b\x22deferComponent\x22\x3atrue,\x22deferType\x22\x3a\x22Simple\x22,\x22deferId\x22\x3a\x22r411573e1857944128a2f2fb49853809f\x22,\x22deferredContainerId\x22\x3anull,\x22deferredContainerView\x22\x3a\x22OneTrust\x22\x7d,\x22viewName\x22\x3a\x22OneTrust\x22\x7d');
+var configuration =
+{"domainId":"54b94d70-2de5-435b-a62e-7ca19d974d88","isMultilingual":false};
+var moduleName = 'oneTrust'; var isVueModule = false;
+GeneralMills.PandoSites.RegisterControlInstance(moduleName, configuration,
+componentMetadata, isVueModule) }); })();
+

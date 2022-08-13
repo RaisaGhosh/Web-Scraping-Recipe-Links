@@ -1,0 +1,12 @@
+https://www.tablespoon.com/recipes/chicken-and-mushroom-hot-pot/d1de9cef-abb6-4134-8540-8c2a16636f4a
+
+
+(function() { document.addEventListener('DOMContentLoaded', function() { var
+componentMetadata =
+JSON.parse('\x7b\x22componentName\x22\x3a\x22OneTrust_a2352866-1a21-4a5d-9dd4-1744f7700fb5\x22,\x22deferOptions\x22\x3a\x7b\x22deferComponent\x22\x3atrue,\x22deferType\x22\x3a\x22Simple\x22,\x22deferId\x22\x3a\x22r7c11055cb5b84e788344d98f875de427\x22,\x22deferredContainerId\x22\x3anull,\x22deferredContainerView\x22\x3a\x22OneTrust\x22\x7d,\x22viewName\x22\x3a\x22OneTrust\x22\x7d');
+var configuration =
+{"domainId":"54b94d70-2de5-435b-a62e-7ca19d974d88","isMultilingual":false};
+var moduleName = 'oneTrust'; var isVueModule = false;
+GeneralMills.PandoSites.RegisterControlInstance(moduleName, configuration,
+componentMetadata, isVueModule) }); })();
+

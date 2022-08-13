@@ -1,0 +1,12 @@
+https://www.bettycrocker.com/recipes/white-sauce/f610bfaf-e83b-4243-997b-ec16b8f5e155
+
+
+(function() { document.addEventListener('DOMContentLoaded', function() { var
+componentMetadata =
+JSON.parse('\x7b\x22componentName\x22\x3a\x22OneTrust_2ee1ece6-a33c-4f37-aafb-6377bfa48ff1\x22,\x22deferOptions\x22\x3a\x7b\x22deferComponent\x22\x3atrue,\x22deferType\x22\x3a\x22Simple\x22,\x22deferId\x22\x3a\x22r443b4a4706d742b5a354aed83293cf4c\x22,\x22deferredContainerId\x22\x3anull,\x22deferredContainerView\x22\x3a\x22OneTrust\x22\x7d,\x22viewName\x22\x3a\x22OneTrust\x22\x7d');
+var configuration =
+{"domainId":"acb6eb28-eeec-400d-8849-beadfc79ac63","isMultilingual":false};
+var moduleName = 'oneTrust'; var isVueModule = false;
+GeneralMills.PandoSites.RegisterControlInstance(moduleName, configuration,
+componentMetadata, isVueModule) }); })();
+
