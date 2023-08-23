@@ -90,7 +90,7 @@ def read_text_file(parent,file_path):
 #to read .txt files from the CHINESE FOLDER
 def read_file(str):
 
-    parent = "/Users/raisaghosh/Desktop/PRAXIS INTERNSHIP/8 WEEKS/WEEK 3/FINAL"
+    parent = "/Users/raisaghosh/(add the desired path...)"
     path = os.path.join(parent,str)
     os.chdir(path)
     c=0
