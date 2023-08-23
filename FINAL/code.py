@@ -20,7 +20,7 @@ def Get_URL(dish, n=10, stop=10):
 
 def read_file(str,excel_file):
 
-    parent_dir = "/Users/raisaghosh/Desktop/PRAXIS INTERNSHIP/8 WEEKS/WEEK 3/FINAL"
+    parent_dir = "/Users/raisaghosh/(add the desired path...)"
     path = os.path.join(parent_dir, str)
     # os.mkdir(path)      #making a directory with cuisine's name
 
